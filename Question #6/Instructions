@@ -1,7 +1,7 @@
 1. Import the 'AvailityEnrollment' project into your Java IDE.
 2. Create a new .CSV file (this will be the original file that the program will use) and place it in your Desktop.
 3. The format of said .CSV should be: <Health Care provider name>,<Last name First name>,<UserID>,<Version> (without the <> symbols)
-4. Once the .CSV file is ready, execute the CSVSorter class. It will grab the original .CSV file, create the new .CSV files for each provider,
+4. Once the .CSV file is ready, execute the 'CSVSorter.java' class. It will grab the original .CSV file, create the new .CSV files for each provider,
    and place them in the desktop as well.
    
 
