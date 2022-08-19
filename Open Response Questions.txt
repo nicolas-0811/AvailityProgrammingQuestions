@@ -1,7 +1,6 @@
 Availity's Fullstack Homework Assignment 
 
 1. Tell me about your proudest professional achievement. It can also be a personal or school project.  
-
 I feel that my capstone project for my Computer Science degree was my biggest professional achievement. Towards the end of the project, two of the members (there were four of us) basically stopped contributing, so I had to figure out
 how to make the frontend and the backend work with my other teammate. It was an intense month of work, and the code failed multiple times, but at the end I was able to get my part working and we received a good grade for it.
 The project taught me how to work as part of a team, how to efficiently research coding questions/problems, and also time management.
@@ -13,4 +12,4 @@ which can help us understand how the universe works, all of it by using lines of
 knowledge are endless.
 
 3. How would you explain to your grandmother what Availity does?
-Availity is a company that makes it easier for doctors to talk to each other in order to bring a good healthcare service for everyone.
+Availity is a company that makes it easier for doctors and businessmen to talk to each other so they can do their job better and help save lives.
