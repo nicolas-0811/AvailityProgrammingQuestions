@@ -27,7 +27,7 @@ public class CSVSorter {
     public static void readFile() {
         //Read the file and add the data to an ArrayList that will hold the information
         try {
-            File inputFile = new File(System.getProperty("user.home") + "/Desktop" + "/File.csv");
+            File inputFile = new File(System.getProperty("user.home") + "/Desktop" + "/Input.csv");
             FileReader reader = new FileReader(inputFile);
             BufferedReader buffered = new BufferedReader(reader);
             String line = "";
